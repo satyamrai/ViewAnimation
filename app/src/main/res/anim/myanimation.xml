@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    // twin animation is done here
+<!--    <alpha-->
+<!--        android:fromAlpha="0"-->
+<!--        android:toAlpha="0.9"-->
+<!--        android:duration="2000"-->
+<!--        android:startOffset="1000"-->
+<!--        android:repeatCount="3"/>-->
+
+<!--    <scale-->
+<!--        android:pivotX="0"-->
+<!--        android:pivotY="0"-->
+<!--        android:fromXScale="1.0dp"-->
+<!--        android:fromYScale="1.0dp"-->
+<!--        android:toXScale="2.0"-->
+<!--        android:toYScale="200dp"-->
+<!--        android:repeatCount="4"-->
+<!--        android:duration="5000"/>-->
+
+<!--    <rotate-->
+<!--        android:pivotY="100"-->
+<!--        android:pivotX="100"-->
+<!--        android:fromDegrees="40"-->
+<!--        android:toDegrees="180"-->
+<!--        android:repeatCount="4"-->
+<!--        android:interpolator="@android:anim/decelerate_interpolator"-->
+<!--        android:duration="6000"/>-->
+
+<!--    <translate-->
+<!--        android:toXDelta="100"-->
+<!--        android:toYDelta="200"-->
+<!--        android:fromXDelta="1"-->
+<!--        android:fromYDelta="1"-->
+<!--        android:duration="5000"-->
+<!--        android:repeatCount="4"-->
+<!--        />-->
+
+</set>
